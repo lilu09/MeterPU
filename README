@@ -1,0 +1,23 @@
+Heterogeneous computing systems expose different programming APIs for measuring metrics of interest, such as execution time or energy usage. MeterPU is a C++ template library that provides a simple, uniform measurement API that is both device independent and generic in the metric to be measured. The actual, platform-specific measurement functionality can be specified for each platform by plug-ins.
+
+If you use MeterPU for a publication, you should cite it as
+
+@article{Lu-meterpu-journal,
+  author = {{Lu Li, Christoph Kessler}},
+  journal = {Journal of Supercomputing},
+  title = {{MeterPU: A Generic Measurement Abstraction API Enabling Energy-tuned
+Skeleton Backend Selection.}},
+  year = {2016},
+  url = {http://www.ida.liu.se/~lilu09/2.ppt/2015/repara_ppt.pdf},
+  publisher = {Springer},
+  doi = {10.1007/s11227-016-1792-x},
+  pages = {1--16}
+}
+
+The documentation of this software is very limited, more details are described
+in the above paper.
+
+The software is under LGPLv3 licence.
+
+Contact: Lu Li, explore.leo@gmail.com or lu.li@liu.se
+

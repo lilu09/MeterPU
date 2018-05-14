@@ -38,7 +38,7 @@
  *    Description:  MeterPU: Library for measurement Abstraction
  *        Version:  0.8
  *
- *         Author:  Lu Li (lu.li@liu.se, explore.leo@gmail.com)
+ *         Author:  Lu Li (explore.leo@gmail.com, lu.li@ed.ac.uk)
  *   Organization:  IDA (www.ida.liu.se)
  *
  * =====================================================================================
